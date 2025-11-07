@@ -1,5 +1,5 @@
 import { Target, Users, Trophy, Zap } from "lucide-react";
-import workoutImage from "@/assets/workout-1.jpg";
+import workoutImage from "../assets/workout-1.jpg";
 
 export const About = () => {
   const features = [
